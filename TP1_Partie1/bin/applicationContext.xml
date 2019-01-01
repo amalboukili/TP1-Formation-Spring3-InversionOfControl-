@@ -25,10 +25,10 @@
 		</constructor-arg>
 		
 		<constructor-arg index="2">
-			<value>Hari</value>
+			<value>Badr</value>
 		</constructor-arg>
 		<constructor-arg index="3">
-			<value>Hari</value>
+			<value>Casablanca</value>
 		</constructor-arg>
 		
 		
